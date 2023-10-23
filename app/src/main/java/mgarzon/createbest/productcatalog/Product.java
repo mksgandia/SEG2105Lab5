@@ -1,4 +1,4 @@
-package com.example.firebaseapp;
+package mgarzon.createbest.productcatalog;
 
 public class Product {
     private String _id;
